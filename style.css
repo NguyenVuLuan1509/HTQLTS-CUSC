@@ -2,3 +2,46 @@
     margin: 0;
     padding: 0;
 }
+
+/* CSS thành phần menuWeb */
+.menuWeb{
+    margin-bottom: 10px;
+}                   /* định dạng liên quan tới menu ở trong đây */
+    
+
+/* CSS thành phần homeWeb */
+.homeWeb{
+    width: 100%;
+    height: 600px;
+    background-color: #c8cbc8;
+    margin: 10px;
+}
+.sidebarWeb{
+    width: 100%;
+    height: 600px;
+    background-color: #eb9a8a;
+    margin-bottom: 10px;
+}
+.mainWeb{
+    width: 100%;
+    height: 600px;
+    background-color: #4f55a8;
+}
+
+
+/* CSS thành phần footer */
+.footerWeb{
+    width: 100%;
+    height: 200px;
+    background-color: #10f110;
+}
+
+/* CSS thành phần phụ */
+a.list-menu:hover{
+    color: white ;
+    background-color: #00CC00;
+}
+.navbar-nav li a{
+    color: white;
+    font-size: 20px;
+}
