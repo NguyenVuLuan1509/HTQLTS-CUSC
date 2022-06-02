@@ -11,19 +11,17 @@
 
 /* CSS thành phần homeWeb */
 .homeWeb{
-    width: 100%;
+    width: 99%;
     height: 600px;
-    background-color: #c8cbc8;
-    margin: 10px;
+    margin:  10px auto 10px auto;
 }
 .sidebarWeb{
     width: 100%;
     height: 600px;
-    background-color: #eb9a8a;
     margin-bottom: 10px;
 }
 .mainWeb{
-    width: 100%;
+    width: 90%;
     height: 600px;
     background-color: #4f55a8;
 }
