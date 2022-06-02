@@ -31,7 +31,7 @@
 
             <!-- Main website -->
             <?php
-                include('../include/home.php');
+                include('../include/main.php');
             ?>
         </div>
     </div>
