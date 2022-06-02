@@ -28,9 +28,9 @@
             <td>Sinh viên</td>
             <td>Đại học Cần Thơ</td>
             <td>
-                <a href="#">Chi tiết</a><br>
-                <a href="#">Sửa</a><br>
-                <a href="#">Xóa</a>
+                <a href="admin.php?route=chitietnguoidung">Chi tiết</a><br>
+                <a href="admin.php?route=suanguoidung">Sửa</a><br>
+                <a href="admin.php?route=xoanguoidung">Xóa</a>
             </td>
         </tr>
 
@@ -42,9 +42,9 @@
             <td>Sinh viên</td>
             <td>Đại học Cần Thơ</td>
             <td>
-                <a href="#">Chi tiết</a><br>
-                <a href="#">Sửa</a><br>
-                <a href="#">Xóa</a>
+                <a href="admin.php?route=chitietnguoidung">Chi tiết</a><br>
+                <a href="admin.php?route=suanguoidung">Sửa</a><br>
+                <a href="admin.php?route=xoanguoidung">Xóa</a>
             </td>
         </tr>
 
@@ -56,9 +56,9 @@
             <td>Sinh viên</td>
             <td>Đại học Cần Thơ</td>
             <td>
-                <a href="#">Chi tiết</a><br>
-                <a href="#">Sửa</a><br>
-                <a href="#">Xóa</a>
+                <a href="admin.php?route=chitietnguoidung">Chi tiết</a><br>
+                <a href="admin.php?route=suanguoidung">Sửa</a><br>
+                <a href="admin.php?route=xoanguoidung">Xóa</a>
             </td>
         </tr>
 
@@ -70,11 +70,27 @@
             <td>Sinh viên</td>
             <td>Đại học Cần Thơ</td>
             <td>
-                <a href="#">Chi tiết</a><br>
-                <a href="#">Sửa</a><br>
-                <a href="#">Xóa</a>
+                <a href="admin.php?route=chitietnguoidung">Chi tiết</a><br>
+                <a href="admin.php?route=suanguoidung">Sửa</a><br>
+                <a href="admin.php?route=xoanguoidung">Xóa</a>
             </td>
         </tr>
+
+        <tr>
+            <td>01</td>
+            <td>0326551974</td>
+            <td>Nguyễn Vũ Luân</td>
+            <td>luannguyenhttt@gmail.com</td>
+            <td>Sinh viên</td>
+            <td>Đại học Cần Thơ</td>
+            <td>
+                <a href="admin.php?route=chitietnguoidung">Chi tiết</a><br>
+                <a href="admin.php?route=suanguoidung">Sửa</a><br>
+                <a href="admin.php?route=xoanguoidung">Xóa</a>
+            </td>
+        </tr>
+
+
     </table>
     <!-- Phân trang -->
     <nav aria-label="Page navigation example" style="float: right;">

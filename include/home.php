@@ -1,3 +1,3 @@
 <div class="col-md-9 mainWeb">
-    <h3>Đây là nội dung hiển thị nè!</h3>
+    <h3>Đây là nội dung TRANG CHỦ nè!</h3>
 </div>

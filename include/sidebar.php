@@ -1,12 +1,11 @@
 <div class="col-md-3 sidebarWeb">
-    <div class="dropdown">
-        <button class="btn btn-warning shadow-none" type="button" data-bs-toggle="dropdown"
-            style="height: 85px; width: 100%;">
-            LOGO MINI
-        </button>
-    </div>
+    <button class="btn btn-warning shadow-none inconHome" type="button"
+        style="height: 55px; width: 100%; margin-top: 10px; ">
+        <a style="text-decoration: none; font-size: 24px;" href="admin.php?route=trangchu">TRANG CHỦ</a>
+    </button>
+
     <!-- Quản lý người dùng -->
-    <div class="dropdown itemSidebarWeb" style="margin-top: 10px;">
+    <div class="dropdown itemSidebarWeb" style="margin-top: 30px;">
         <button class="btn btn-warning dropdown-toggle shadow-none" type="button" id="dropdownMenuButton1"
             data-bs-toggle="dropdown" aria-expanded="false">
             QUẢN LÝ NGƯỜI DÙNG
