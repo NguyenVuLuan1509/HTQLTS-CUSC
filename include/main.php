@@ -8,8 +8,8 @@
     if($tam== 'hienthinguoidung'){
          include("../quanlynguoidung/hienthinguoidung.php");
     }
-    elseif($tam== 'giasu'){
-        include("page/giasu.php");
+    elseif($tam== 'themnguoidung'){
+        include("../quanlynguoidung/themnguoidung.php");
     }
     else{
         include("home.php");
