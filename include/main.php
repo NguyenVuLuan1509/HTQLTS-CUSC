@@ -70,7 +70,16 @@
     elseif($tam== 'trangchu'){
         include("home.php");
     }
+    elseif(isset($_GET['timkiemdulieu'])){
+        include("../quanlydulieu/timkiemdulieu.php");
+    }
+    elseif(isset($_GET['xulythemnguoidung'])){
+        include("../quanlynguoidung/xulythemnguoidung.php");
+    }
     else{
         include("home.php");
-    }
+    };
+
+
+    
 ?>

@@ -25,7 +25,7 @@
     ?>
 
     <!-- Phần nội dung Website -->
-    <div class="container-fruid homeWeb">
+    <div class="container-fluid homeWeb">
         <div class="row">
             <!-- Sidebar Website -->
             <?php
@@ -45,6 +45,7 @@
     ?>
 
 
+    <script src="../include/javascript.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="../include/popper.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"></script>
